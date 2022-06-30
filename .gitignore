@@ -4,3 +4,5 @@
 __pycache__/
 vs
 .vscode
+/data/2.wav
+/data/3.wav
