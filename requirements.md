@@ -1,4 +1,10 @@
 cv2
 mediapipe
-speech_recognition
-pydub
+tk
+pillow
+tensorflow-metal
+tensorflow-macos
+tensorflow-datasets
+keras
+numpy
+azure-cognitiveservices-speech
