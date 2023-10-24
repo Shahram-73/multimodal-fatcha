@@ -1,5 +1,7 @@
 import mediapipe as mp
 import cv2
+import sys
+sys.path.append("..")  # Add the parent directory to the Python path
 import config
 
 
